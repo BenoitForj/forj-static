@@ -3155,8 +3155,8 @@
                         }
                         
                         .footer-table td {
-                            padding-top: 0.3em;
-                            font-size: 0.3em;
+                            padding-top: 0.5em;
+                            font-size: 0.5em;
                         }
                         
                         .footer-table th,
@@ -3167,7 +3167,7 @@
                         
                         .footer-table th {
                             height: 20px;
-                            font-size: 0.4em;
+                            font-size: 0.5em;
                         }
                         
                         .footer-logo {
