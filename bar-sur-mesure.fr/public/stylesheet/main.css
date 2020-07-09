@@ -1527,7 +1527,7 @@
                         
                         section.content article .cover {
                             position: absolute;
-                            width: 33.3333vw;
+                            width: 40vw;
                             height: auto;
                             top: 0;
                             right: 0;
@@ -1547,7 +1547,7 @@
                         
                         section.content article .text-wrapper {
                             margin-left: 80px;
-                            width: 55vw;
+                            width: 45vw;
                             min-width: 400px
                         }
                         
