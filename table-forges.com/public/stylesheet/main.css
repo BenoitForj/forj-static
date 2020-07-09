@@ -1587,6 +1587,10 @@
                                 width: 100%;
                                 height: auto;
                             }
+                            section.content article .cover img {
+                                width: 100%;
+                                height: auto;
+                            }
                             section.content article .legendary {
                                 bottom: -50px;
                                 left: 30px;
