@@ -1537,15 +1537,13 @@
                         
                         section.content article .cover p {
                             margin: 15px;
-                            left: auto;
-                            right: 30px;
-                            width: 300px;
                             line-height: 1.3em;
                             font-size: .7em
                         }
                         
                         section.content article .text-wrapper {
                             margin-left: 80px;
+                            margin-bottom: 100px;
                             width: 40vw;
                             min-width: 400px
                         }
